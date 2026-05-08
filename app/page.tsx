@@ -17,8 +17,8 @@ export default function Home() {
 
       <h2>Kontakt</h2>
 
-      <p>Telefon: 123 456 789</p>
-      <p>Email: kontakt@twojafirma.pl</p>
+      <p>Telefon: 739241104</p>
+      <p>Email: wojtek.troszok@onet.pl</p>
     </main>
   );
 }

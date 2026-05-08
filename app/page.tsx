@@ -18,9 +18,7 @@ export default function Home() {
       <h2>Kontakt</h2>
 
       <p>Telefon: 739 241 104</p>
-      <p>Email: wojtek.troszok@onet./**
-      
-     }</p>
+      <p>Email: wojtek.troszok@onet.pl</p>
     </main>
   );
 }
